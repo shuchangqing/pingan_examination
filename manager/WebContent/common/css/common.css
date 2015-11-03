@@ -1,0 +1,29 @@
+#man_zone {
+	height: 510px;
+	width: 100%;
+	border: 0px solid #B4C9C6;
+	margin: 6px 0 0 0;
+	background-color:#FFFFFF;
+	padding: 5px 0 5px 0;
+	overflow: auto;
+}
+#man_zone table{
+    background-color:#DBE6E3;
+}
+#man_zone table tr{
+    background-color:#fff;
+}
+.left_title_1 {
+	background-color: #f3fbff;
+	color:#17374c;
+	line-height:30px;
+	text-align:right;
+	font-size: 12px;
+}
+.left_title_2 {
+	background-color: #fff;
+	color:#17374c;
+	line-height:30px;
+	text-align:right;
+	font-size: 12px;
+}
